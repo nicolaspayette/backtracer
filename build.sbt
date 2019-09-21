@@ -10,7 +10,7 @@ netLogoVersion := "6.1.0"
 
 netLogoZipSources := false
 
-version := "0.0.0-SNAPSHOT"
+version := "0.0.0"
 
 scalaVersion := "2.12.8"
 
